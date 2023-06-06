@@ -9,13 +9,13 @@ const div_3 = document.createElement('div')
 const div_4 = document.createElement('div')
 content.setAttribute('id', 'content')
 img.setAttribute('id','logo')
-img.setAttribute('src','./image/logo.jpg')
+img.setAttribute('src','./image/logo2.jpg')
 div_1.setAttribute('class','flower')
 div_2.setAttribute('class','flower')
 div_3.setAttribute('class','flower')
 div_4.setAttribute('class','flower')
 
-figcaption.innerText = 'Logo'
+figcaption.innerText = 'Life FLOWERS'
 div_1.innerHTML = '<p>Rosa do deserto</p>'
 div_2.innerHTML = '<p>Bromélia</p>'
 div_3.innerHTML = '<p>Crisântemo</p>'
